@@ -7,7 +7,7 @@
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
 💻 I enjoy transforming ideas into **practical software solutions**  
 
@@ -24,17 +24,14 @@
 
 ---
 
-# 📊 GitHub Activity
+#  GitHub Activity
 
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepthi-M555&theme=tokyonight&hide_border=true"/>
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepthi-M555&" alt="Deepthi-M555" /></p>
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 
 ### 💻 Languages
@@ -66,7 +63,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
-# 🤝 Connect With Me
+#  Connect With Me
 
 <a href="mailto:mdeepthi555@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
