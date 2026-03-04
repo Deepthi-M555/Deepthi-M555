@@ -9,7 +9,7 @@
 
 # 👩‍💻 About Me
 
-📑 Check out my resume here → <a href="">View Resume</a>
+📑 Check out my resume here → <a href="https://drive.google.com/file/d/1FAYtHo9fdDBEn8BV7TJWTK2kKzhwPcBQ/view?usp=sharing">View Resume</a>
 
 💻 I enjoy transforming ideas into **practical software solutions**  
 
