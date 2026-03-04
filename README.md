@@ -4,88 +4,80 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Exploring+AI+and+Intelligent+Systems;Building+Practical+Software+Projects" />
 </p>
 
----
-
-### About Me
-
-I enjoy transforming ideas into working software that solves meaningful problems.
-
-My primary interest is **Full-Stack Development**, where I build applications that are **practical, efficient, and reusable**. Alongside this, I am also **exploring Artificial Intelligence and intelligent systems** to understand how they can be used to build smarter technology.
-
-- Building **practical and user-focused software systems**
-- Passionate about **Full-Stack Development**
-- Exploring **Artificial Intelligence and intelligent systems**
-- Interested in creating **scalable and efficient solutions for real users**
 
 ---
 
-# 🛠 Tech Stack
+# 👩‍💻 About Me
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java" title="Java"/>
-<img src="https://skillicons.dev/icons?i=c" title="C"/>
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
-</p>
+📑 Check out my resume here → <a href="">View Resume</a>
 
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html" title="HTML"/>
-<img src="https://skillicons.dev/icons?i=css" title="CSS"/>
-<img src="https://skillicons.dev/icons?i=react" title="React"/>
-</p>
+💻 I enjoy transforming ideas into **practical software solutions**  
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
-<img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
-</p>
+🌐 My main interest is **Full-Stack Development**, building applications that are **efficient, scalable, and reusable**
 
-### 🗄 Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
-</p>
+🤖 I am also **exploring Artificial Intelligence and intelligent systems**
 
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git" title="Git"/>
-<img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-<img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-<img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
-</p>
+🚀 Passionate about developing **projects that solve real-world problems**
+
+📚 Continuously learning **new technologies, tools, and system design concepts**
+
 
 ---
 
 # 📊 GitHub Activity
 
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepthi-M555&theme=tokyonight&hide_border=true"/>
 </p>
 
+
 ---
 
-### 🚀 Current Focus
+# 🛠 Tech Stack
 
-- 💻 Developing **practical full-stack software applications**
-- 🤖 Learning and exploring **Artificial Intelligence concepts**
-- ⚡ Improving **coding skills and system design**
-- 📚 Continuously learning **modern tools and technologies**
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/ExpressJS-404D59?style=flat&logo=express&logoColor=61DAFB)
+
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="center">
 <a href="mailto:mdeepthi555@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55" title="Email"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
 </a>
-<a href="https://www.linkedin.com/in/deepthi-m-339023297">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55" title="LinkedIn"/>
-</a>
-<a href="https://github.com/Deepthi-M555">
-<img src="https://skillicons.dev/icons?i=github" width="55" title="GitHub"/>
-</a>
-</p>
 
----
+<a href="https://www.linkedin.com/in/deepthi-m-339023297">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<a href="https://github.com/Deepthi-M555">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
