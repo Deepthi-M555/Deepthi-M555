@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋 I'm Deepthi M</h2>
+<h1 align="center">Hello 👋 I'm Deepthi M</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Exploring+AI+and+Intelligent+Systems;Building+Practical+Software+Projects" />
@@ -9,8 +9,6 @@
 
 # 👩‍💻 About Me
 
-📑 Check out my resume here → <a href="https://drive.google.com/file/d/1FAYtHo9fdDBEn8BV7TJWTK2kKzhwPcBQ/view?usp=sharing">View Resume</a>
-
 💻 I enjoy transforming ideas into **practical software solutions**  
 
 🌐 My main interest is **Full-Stack Development**, building applications that are **efficient, scalable, and reusable**
@@ -20,6 +18,8 @@
 🚀 Passionate about developing **projects that solve real-world problems**
 
 📚 Continuously learning **new technologies, tools, and system design concepts**
+
+📑 Check out my resume here → <a href="https://drive.google.com/file/d/1FAYtHo9fdDBEn8BV7TJWTK2kKzhwPcBQ/view?usp=sharing">View Resume</a>
 
 
 ---
@@ -38,34 +38,32 @@
 
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/ExpressJS-404D59?style=flat&logo=express&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 
 
 ### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
 # 🤝 Connect With Me
