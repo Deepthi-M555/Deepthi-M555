@@ -8,13 +8,15 @@
 
 ### About Me
 
-I enjoy designing and developing software that solves meaningful problems.  
-My main focus is **Full-Stack Development**, while also exploring how **AI can enhance modern applications**.
+I enjoy transforming ideas into working software that solves meaningful problems.  
+My main interest lies in **Full-Stack Development**, along with exploring how **Artificial Intelligence can enhance modern applications**.
 
-- Focused on developing **practical software systems**
-- Exploring **AI integration in modern applications**
-- Interested in building **scalable and efficient solutions**
-- Motivated by creating projects that are **useful to real users**
+I focus on building applications that are **practical, efficient, and reusable**, while creating solutions that are useful and impactful for real users.
+
+- Building **practical and user-focused software systems**
+- Exploring **AI integration in modern full-stack applications**
+- Interested in developing **scalable and efficient solutions**
+- Motivated by creating **technology that delivers real value**
 
 ---
 
@@ -49,11 +51,18 @@ My main focus is **Full-Stack Development**, while also exploring how **AI can e
 
 # 📊 GitHub Activity
 
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepthi-M555&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+### 🚀 Current Focus
+
+- 💻 Developing **full-stack applications with practical real-world use**
+- 🤖 Exploring **AI-powered features in modern applications**
+- ⚡ Improving **code quality, efficiency, and system design**
+- 📚 Continuously learning **new tools, frameworks, and technologies**
 
 ---
 
@@ -69,10 +78,4 @@ My main focus is **Full-Stack Development**, while also exploring how **AI can e
 <a href="https://github.com/Deepthi-M555">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
-</p>
-
----
-
-<p align="center">
-<i>Building thoughtful software that turns ideas into real solutions.</i>
 </p>
