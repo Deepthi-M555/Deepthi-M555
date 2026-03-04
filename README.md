@@ -8,15 +8,14 @@
 
 ### About Me
 
-I enjoy transforming ideas into working software that solves meaningful problems.  
-My main interest lies in **Full-Stack Development**, along with exploring how **Artificial Intelligence can enhance modern applications**.
+I enjoy transforming ideas into working software that solves meaningful problems.
 
-I focus on building applications that are **practical, efficient, and reusable**, while creating solutions that are useful and impactful for real users.
+My primary interest is **Full-Stack Development**, where I build applications that are **practical, efficient, and reusable**. Alongside this, I am also **exploring Artificial Intelligence and intelligent systems** to understand how they can be used to build smarter technology.
 
 - Building **practical and user-focused software systems**
-- Exploring **AI integration in modern full-stack applications**
-- Interested in developing **scalable and efficient solutions**
-- Motivated by creating **technology that delivers real value**
+- Passionate about **Full-Stack Development**
+- Exploring **Artificial Intelligence and intelligent systems**
+- Interested in creating **scalable and efficient solutions for real users**
 
 ---
 
@@ -24,27 +23,36 @@ I focus on building applications that are **practical, efficient, and reusable**
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,js" />
+<img src="https://skillicons.dev/icons?i=java" title="Java"/>
+<img src="https://skillicons.dev/icons?i=c" title="C"/>
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
 </p>
 
 ### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+<img src="https://skillicons.dev/icons?i=react" title="React"/>
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
 </p>
 
 ### 🗄 Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
 </p>
 
 ### 🧰 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
 </p>
 
 ---
@@ -59,10 +67,10 @@ I focus on building applications that are **practical, efficient, and reusable**
 
 ### 🚀 Current Focus
 
-- 💻 Developing **full-stack applications with practical real-world use**
-- 🤖 Exploring **AI-powered features in modern applications**
-- ⚡ Improving **code quality, efficiency, and system design**
-- 📚 Continuously learning **new tools, frameworks, and technologies**
+- 💻 Developing **practical full-stack software applications**
+- 🤖 Learning and exploring **Artificial Intelligence concepts**
+- ⚡ Improving **coding skills and system design**
+- 📚 Continuously learning **modern tools and technologies**
 
 ---
 
@@ -70,12 +78,14 @@ I focus on building applications that are **practical, efficient, and reusable**
 
 <p align="center">
 <a href="mailto:mdeepthi555@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55" title="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/deepthi-m-339023297">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" title="LinkedIn"/>
 </a>
 <a href="https://github.com/Deepthi-M555">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="55" title="GitHub"/>
 </a>
 </p>
+
+---
