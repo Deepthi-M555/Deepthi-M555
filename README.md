@@ -19,8 +19,6 @@
 
 📚 Continuously learning **new technologies, tools, and system design concepts**
 
-📑 Check out my resume here → <a href="https://drive.google.com/file/d/1FAYtHo9fdDBEn8BV7TJWTK2kKzhwPcBQ/view?usp=sharing">View Resume</a>
-
 
 ---
 
