@@ -4,6 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Exploring+AI+and+Intelligent+Systems;Building+Practical+Software+Projects" />
 </p>
 
+<p align="center">
+<a href="https://deepthi-portfolio-beta.vercel.app/">🌐 View My Portfolio</a>
+</p>
+
 ---
 
 # 👩‍💻 About Me
@@ -41,9 +45,11 @@ A **desktop productivity companion** designed to help users manage tasks, plan f
 
 🔗 **Repository:** [FYNIX](https://github.com/Deepthi-M555/Focus-Companion-)
 
+🎥 **Demo Video:** [Watch FYNIX Demo](https://youtu.be/F1C9Xlo0yO0)
+
 ---
 
-### 🤖 AI Copilot — Group Project
+### 🤖 AI Copilot — Intelligent Learning Assistant
 
 A **group project focused on building an AI-powered learning and productivity companion** that helps users interact with intelligent learning features and gain useful insights from their activity.
 
@@ -58,9 +64,13 @@ A **group project focused on building an AI-powered learning and productivity co
 
 **Technologies Used**
 
-`Python`  `AI/ML` `Node.js` `MongoDB` `Redis`
+`Python` `AI` `Node.js` `MongoDB` `Redis`
 
 👥 **Group Project:** Developed collaboratively with a team, with the contributions above representing my individual work.
+
+🔗 **Repository:** [AI Copilot](https://github.com/manjugowda-l/ai-learning-intelligence-system)
+
+🎥 **Demo Video:** [Watch AI Copilot Demo](https://www.youtube.com/watch?v=NZyQOrWVJKU)
 
 ---
 
@@ -107,6 +117,8 @@ A **group project focused on building an AI-powered learning and productivity co
 ---
 
 # 🤝 Connect With Me
+
+🌐 **Portfolio:** [deepthi-portfolio-beta.vercel.app](https://deepthi-portfolio-beta.vercel.app/)
 
 <a href="mailto:mdeepthi555@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
